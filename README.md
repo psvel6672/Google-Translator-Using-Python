@@ -2,7 +2,7 @@
 
 Author :: Ps Thamizhan
 
-Tool Name :: Screen Recorder
+Tool Name :: Google Translator
 
 Version :: 1.0
 
